@@ -164,3 +164,5 @@ end = 5
 selected_files = files[start:end]
 ```
 
+### Accuracy assessment
+To assess the spatial and geometric accuracy of detected building footprints, reference building footprints for twelve rural and urban communities from Alaskan and Canadian open governmental datasets were collected (such data from Russia is not publicly available for download). Building footprints for the rural Canadian communities of Baker Lake, Gjoa Haven, Grise Fjord, Igloolik, Kugluktuk, Pangnirtung, and Taloyoak were obtained from the Government of Nunavut’s Planning & Lands Division (https://cs-pals.ca/downloads/gis/). Building footprints for the city of Yellowknife were obtained from the Canadian Open Database of Buildings (https://www.statcan.gc.ca/en/lode/databases/odb). Building footprints for the rural Alaskan communities of Atqasuk, Kaktovik, Nuiqsut, and Utqiagvik were obtained through correspondence with the North Slope Borough GIS Division, which can be viewed on the North Slope Borough ArcGIS Portal (https://gis-public.north-slope.org/portal/home/). 
